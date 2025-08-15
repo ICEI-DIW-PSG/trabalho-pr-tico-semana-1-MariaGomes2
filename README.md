@@ -9,7 +9,7 @@ Matricula: 902082
 
 ## Tela de inspeção com navegador
 
-![inspeção](ferramentadeinspensão.png)
+![inspeção](images/ferramentadeinspensão.png)
 
 ## Tela de projeto no Replit
 
