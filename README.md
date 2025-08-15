@@ -13,7 +13,7 @@ Matricula: 902082
 
 ## Tela de projeto no Replit
 
-![replithellowd](images/image.png)
+![replithellowd](images/replit.png)
 
 
 ## Orientações sobre Linguagem MarkDown
