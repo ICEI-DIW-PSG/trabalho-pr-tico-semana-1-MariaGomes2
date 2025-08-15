@@ -9,11 +9,11 @@ Matricula: 902082
 
 ## Tela de inspeção com navegador
 
-!(images/insp.png)
+![inspeção](images/insp.png)
 
 ## Tela de projeto no Replit
 
-!(images/iHELLOmage.png)
+![replit](images/iHELLOmage.png)
 
 
 ## Orientações sobre Linguagem MarkDown
