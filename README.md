@@ -13,7 +13,8 @@ Matricula: 902082
 
 ## Tela de projeto no Replit
 
-![replithellowd](images/image.png)
+![replithellowd](<img width="1894" height="923" alt="Captura de tela 2025-08-15 182156" src="https://github.com/user-attachments/assets/0968712e-e511-49e1-99ed-0024699ca337" />
+)
 
 
 ## Orientações sobre Linguagem MarkDown
