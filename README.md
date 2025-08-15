@@ -9,11 +9,11 @@ Matricula: 902082
 
 ## Tela de inspeção com navegador
 
-![inspeção](images/ferramentadeinspensão.png)
+![ferramentadeinspensão]](<ferramentadeinspensão .png>)
 
 ## Tela de projeto no Replit
 
-![replit](images/replithellowd.png)
+![replithellowd](replithellowd.png)
 
 
 ## Orientações sobre Linguagem MarkDown
