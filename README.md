@@ -9,12 +9,11 @@ Matricula: 902082
 
 ## Tela de inspeção com navegador
 
-![inspencao](C:\Users\maria fernanda\Desktop\trabalho-pr-tico-semana-1-MariaGomes2\images\ferramentadeinspencao.png)
+![ferramenta](images/ferramentadeinspencao.png)
 
 ## Tela de projeto no Replit
 
-![replithellowd](C:\Users\maria fernanda\Desktop\trabalho-pr-tico-semana-1-MariaGomes2\images\replit.png)
-
+![replit](images/replit.png)
 
 ## Orientações sobre Linguagem MarkDown
 
